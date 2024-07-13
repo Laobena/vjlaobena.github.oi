@@ -1,4 +1,4 @@
-## Data Analyst | Data Scientist | Machine Learning Engineer | Python Software Engineer
+# Data Analyst | Data Scientist 
 
 ### Contact
 - Location: Sandy, Bedfordshire
