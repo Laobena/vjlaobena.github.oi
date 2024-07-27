@@ -1,5 +1,3 @@
-
-<response>
 # VICTOR LAOBENA
 DATA ANALYST
 
