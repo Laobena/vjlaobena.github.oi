@@ -1,18 +1,19 @@
 # VICTOR LAOBENA
-DATA ANALYST
+**DATA ANALYST**
 
-**CONTACT**  
-Sandy, Bedfordshire  
-Mobile: 07963599986  
-Email: vjv.laobena@gmail.com  
-LinkedIn: [www.linkedin.com/in/victorlaobena-7b4559277](https://www.linkedin.com/in/victorlaobena-7b4559277)
+## CONTACT
+- Sandy, Bedfordshire
+- Mobile: 07963599986
+- Email: vjv.laobena@gmail.com
+- LinkedIn: [www.linkedin.com/in/victorlaobena-7b4559277](https://www.linkedin.com/in/victorlaobena-7b4559277)
 
 ## PROFESSIONAL SUMMARY
-A hardworking professional transitioning smoothly from a well-established background in the construction industry to data analytics, boasting over 12 years of experience, including three years in project management where I developed effective leadership, communication, and problem-solving skills. I recently completed an intensive Data Science Bootcamp with a 98% score, enhancing my skills in Python programming, data manipulation, statistical analysis, and building machine learning models. Additionally, I completed the Google Data Analytics course with certification.
+A hardworking professional transitioning smoothly from a well-established background in the construction industry to data analytics, boasting over 12 years of experience, including three years in project management. Developed effective leadership, communication, and problem-solving skills. Recently completed an intensive Data Science Bootcamp with a 98% score, enhancing skills in Python programming, data manipulation, statistical analysis, and building machine learning models. Additionally, completed the Google Data Analytics course with certification.
 
 ## PROFESSIONAL EXPERIENCE
-**Self Employed Scaffolder**  
-*01/2014 - 01/2017*  
+
+### Self Employed Scaffolder
+*01/2014 - 01/2017*
 - Erected, dismantled, and maintained scaffolding structures in compliance with safety regulations and industry standards.
 - Read and interpreted blueprints, drawings, and specifications for scaffolding layout and dimensions.
 - Selected suitable materials and components based on project requirements.
@@ -22,8 +23,8 @@ A hardworking professional transitioning smoothly from a well-established backgr
 - Maintained detailed records of scaffold inspections, maintenance, and incidents.
 - Adapted scaffolding systems to site conditions and project needs.
 
-**Scaffolder Supervisor | Fortis Scaffolding**  
-*04/2018 - present*  
+### Scaffolder Supervisor | Fortis Scaffolding
+*04/2018 - present*
 - Directed and managed the scaffolding team, ensuring efficient and effective completion of tasks.
 - Successfully managed 100+ commercial and residential scaffolding projects, optimising material usage through meticulous planning and analysis.
 - Conducted Job Safety Analysis (JSAs), resulting in a reduction in workplace incidents, and implemented data-backed solutions to mitigate hazards.
@@ -31,8 +32,9 @@ A hardworking professional transitioning smoothly from a well-established backgr
 - Performed detailed risk assessments for each project, ensuring compliance with safety regulations and mitigating potential hazards.
 
 ## TECHNICAL EXPERIENCE
-**Data Science Bootcamp | HyperionDev**  
-*March 2024 - June 2024*  
+
+### Data Science Bootcamp | HyperionDev
+*March 2024 - June 2024*
 - **Extensive Training:** Gained comprehensive knowledge in Python programming, probability, statistics, data science libraries, and machine learning concepts.
 - **Data Handling:** Proficient in employing Datasets and DataFrames for data storage and manipulation.
 - **Automation & Efficiency:** Developed user-defined functions to streamline repetitive tasks.
@@ -42,8 +44,8 @@ A hardworking professional transitioning smoothly from a well-established backgr
 - **Web Scraping with Python:** Utilised tools like Requests, Beautiful Soup, and Selenium for extracting and processing data from websites.
 - **Leveraging Large Language Models (LLMs):** Used NLP models for text analysis and data preprocessing, including sentiment analysis and text summarisation.
 
-**Data Analytics | Google Coursera**  
-*February 2023 - June 2023*  
+### Data Analytics | Google Coursera
+*February 2023 - June 2023*
 - **Data Analysis Techniques:** Mastered data analysis using Google tools and platforms, including Google Sheets and BigQuery, for advanced data manipulation and querying.
 - **SQL Proficiency:** Gained proficiency in SQL for efficient data extraction, transformation, and analysis, enabling the handling of large and complex datasets.
 - **Interactive Dashboards & Visualisations:** Developed and deployed interactive dashboards and visualisations using Tableau to provide actionable insights.
