@@ -7,41 +7,6 @@
 - **Email**: vjv.laobena@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/victorlaobena-7b4559277](https://www.linkedin.com/in/victorlaobena-7b4559277)
 
-## Technical Skills
-- Python Programming
-- Data Analysis
-- Statistical Data Analysis
-- Data Management
-- Machine Learning
-- Linear Regression
-- Logistic Regression
-- Git and GitHub
-- Decision Trees
-- Random Forests
-- Image Processing
-- K-means Clustering
-- Exploring Neural Networks
-- Natural Language Processing with SpaCy
-- SQL
-
-## Soft Skills
-- Leadership
-- Strong Problem-Solving Skills
-- Communication
-- Project Management
-- Adaptability
-- Teamwork
-- Time Management
-- Interpersonal Skills
-- Emotional Intelligence
-
-## Education
-- **Data Science Bootcamp**, HyperionDev (03/2024 - 06/2024)
-- **Data Analytics**, Google Coursera (02/2023 - 06/2023)
-- **Part 1 & Part 2 Scaffolding** (02/2015 - 02/2018)
-- **Site Supervisor Safety Training (SSSTS)**, CITB (09/2017)
-- **GCSE**: English, Maths, Science, IT (C grade) (08/2013)
-
 ## Professional Summary
 A hardworking professional able to transition smoothly from a well-established background in the construction industry to data analytics. I boast over 12 years of experience, including three years in project management, developing effective leadership, communication, and problem-solving skills. Recently, I completed an intensive Data Science Bootcamp with an excellent 98% score, enhancing my skills in Python programming, data manipulation, statistical analysis, and building machine learning models. Additionally, I completed the Google Data Analytics course with certification.
 
@@ -98,6 +63,45 @@ Data has been integral to my journey, shaping both my personal and professional 
 
 ## Career Aspiration
 I aspire to grow into a leadership role within the data field, where I can lead a dynamic team on impactful projects. My goal is to tackle complex challenges and be at the forefront of advancements in AI and machine learning. I am committed to fostering an environment of innovation, where team members feel empowered to explore new ideas and approaches. Mentoring and supporting junior colleagues is a key aspect of my vision, as I aim to share my expertise and help others develop their careers, contributing to the overall success and growth of the organization.
+
+## Technical Skills
+- Python Programming
+- R Programming
+- SQL
+- Data Analysis
+- Power BI
+- Tableau
+- Statistical Data Analysis
+- Data Management
+- Machine Learning
+- Linear Regression
+- Logistic Regression
+- Git and GitHub
+- Decision Trees
+- Random Forests
+- Image Processing
+- K-means Clustering
+- Exploring Neural Networks
+- Natural Language Processing with SpaCy
+
+
+## Soft Skills
+- Leadership
+- Strong Problem-Solving Skills
+- Communication
+- Project Management
+- Adaptability
+- Teamwork
+- Time Management
+- Interpersonal Skills
+- Emotional Intelligence
+
+## Education
+- **Data Science Bootcamp**, HyperionDev (03/2024 - 06/2024)
+- **Data Analytics**, Google Coursera (02/2023 - 06/2023)
+- **Part 1 & Part 2 Scaffolding** (02/2015 - 02/2018)
+- **Site Supervisor Safety Training (SSSTS)**, CITB (09/2017)
+- **GCSE**: English, Maths, Science, IT (C grade) (08/2013)
 
 ## GitHub Projects
 - **Bootcamp Projects**: [https://github.com/Laobena/Bootcamp.git](https://github.com/Laobena/Bootcamp.git)
