@@ -15,6 +15,7 @@ A hardworking professional transitioning smoothly from a well-established backgr
 - **Image Processing & NLP:** Applied image processing techniques and Natural Language Processing using SpaCy.
 - **Web Scraping with Python:** Utilised tools like Requests, Beautiful Soup, and Selenium for extracting and processing data from websites.
 - **Leveraging Large Language Models (LLMs):** Used NLP models for text analysis and data preprocessing, including sentiment analysis and text summarisation.
+
 ### Data Analytics | Google Coursera
 *February 2023 - June 2023*
 - **Data Analysis Techniques:** Mastered data analysis using Google tools and platforms, including Google Sheets and BigQuery, for advanced data manipulation and querying.
@@ -35,6 +36,7 @@ A hardworking professional transitioning smoothly from a well-established backgr
 - Stayed updated on scaffolding techniques and equipment through training.
 - Maintained detailed records of scaffold inspections, maintenance, and incidents.
 - Adapted scaffolding systems to site conditions and project needs.
+  
 ### Scaffolder Supervisor | Fortis Scaffolding
 *04/2018 - present*
 - Directed and managed the scaffolding team, ensuring efficient and effective completion of tasks.
